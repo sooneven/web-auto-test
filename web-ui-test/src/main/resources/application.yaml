@@ -1,0 +1,22 @@
+shein:
+  pc:
+    us:
+      root-path: us.shein.com
+
+
+page:
+  login:
+    path: /user/auth/login?direction=nav&from=navTop
+
+
+
+webDriver:
+  chrome:
+    # version:
+    path: src\main\resources\static\webdriver\chrome\chromedriver.exe
+  firefox:
+    # version:
+    path:
+  ie:
+    # version:
+    path:
